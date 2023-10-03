@@ -1,0 +1,2 @@
+abstract
+BaseEntity (Node extends BaseEntity)
